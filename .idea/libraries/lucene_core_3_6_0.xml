@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lucene-core-3.6.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/LuceneImplProject/lib/lucene-core-3.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
